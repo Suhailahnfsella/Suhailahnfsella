@@ -20,5 +20,5 @@
 # 📈 GitHub Stats:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Suhailahnfsella&show_icons=true&theme=tokyonight)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=Suhailahnfsella&theme=tokyonight&hide_border=false)  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Suhailahnfsella&theme=tokyonight&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suhailahnfsella&layout=compact&theme=tokyonight)
